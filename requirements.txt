@@ -1,0 +1,8 @@
+flask
+gunicorn
+flask-cors
+python-dotenv
+redis
+fakeredis
+pytest
+boto3
